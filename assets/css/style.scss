@@ -1,0 +1,5 @@
+@import "{{ site.theme }}";
+
+footer, header {
+  display: none !important;
+}
