@@ -50,9 +50,7 @@
 
 活动主题：云原生技术发展下，该如何解决Java面临的挑战？
 
-邀请嘉宾：
-
-    殷芳玺（快手syslab运行时团队负责人）
+邀请嘉宾：殷芳玺（快手syslab运行时团队负责人）
 
 ### 2022年5月18日：开源版和发行版，本质上是冲突的吗？
 活动形式：在线直播[(直播回放)](https://www.bilibili.com/video/BV1WB4y197b1?spm_id_from=444.41.list.card_archive.click)
@@ -63,11 +61,7 @@
 
 活动主题：开源版和发行版，本质上是冲突的吗？
 
-邀请嘉宾：
-
-    江波（SegmentFault思否COO, 开源社理事、执行长）
-    范学雷（腾讯专家工程师，OpenJDK Reviewer，JavaSE安全组成员）
-    臧琳（腾讯高级工程师, OpenJDK Committer）
+邀请嘉宾：江波（SegmentFault思否COO, 开源社理事、执行长）/ 范学雷（腾讯专家工程师，OpenJDK Reviewer，JavaSE安全组成员）/ 臧琳（腾讯高级工程师, OpenJDK Committer）
 
 活动简介：
 
@@ -88,10 +82,7 @@
 
 活动主题：繁荣的Java开源生态下，我怎么看OpenJDK社区的成长？
 
-邀请嘉宾：
-
-    杨晓峰（腾讯专家工程师，OpenJDK Committer，腾源会导师）
-    傅杰（腾讯高级工程师, 中科院计算技术研究所博士，OpenJDK Reviewer）
+邀请嘉宾：杨晓峰（腾讯专家工程师，OpenJDK Committer，腾源会导师）/ 傅杰（腾讯高级工程师, 中科院计算技术研究所博士，OpenJDK Reviewer）
 
 
 ### 联系我们
